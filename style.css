@@ -12,6 +12,7 @@
 	background: linear-gradient(45deg, #6b15a1, #ac2aa1);
 }
 .container {
+	padding-top: 20px;
 	padding-right: 65px;
     	padding-left: 55px;
     	margin-right: auto;
