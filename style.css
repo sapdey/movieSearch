@@ -83,7 +83,7 @@ h1, h2 {
 
 @media (min-width:960px){
 	#movies .col-md-3 .well {
-		height : 420px;
+		height : 350px;
 	}
 	#movies .col.md-3 img {
 		height: 240px;
