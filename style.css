@@ -74,7 +74,7 @@ h1, h2 {
 
 #movies img 
 {
-	height: 330px;
+	height: 330px !important;
 	width: 100%
 }
 #movie img {
@@ -84,7 +84,7 @@ h1, h2 {
 
 @media (min-width:960px){
 	#movies .col-md-3 .well {
-		height : 420px;
+		height : 410px;
 	}
 	#movies .col.md-3 img {
 		height: 240px;
